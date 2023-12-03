@@ -8,6 +8,7 @@ namespace TuyenSinh
 {
     public partial class Form1 : Form
     {
+        //chinhdau
         //public class TuyenSinh
         //{
         //    public string SoBaoDanh { get; set; }
