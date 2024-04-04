@@ -1,0 +1,5 @@
+﻿SELECT TOP (1000) [TK]
+      ,[mk]
+      ,[loai]
+      ,[tenDN]
+  FROM [CSDLNC].[dbo].[login]
